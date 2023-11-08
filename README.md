@@ -1,2 +1,1 @@
-# parallax
-https://parallax-website-riyansh72.netlify.app
+# parallax https://parallax-website-riyansh72.netlify.app
